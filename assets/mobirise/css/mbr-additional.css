@@ -711,29 +711,29 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rGtP4tFzqR {
+.cid-rGQ5POcbnc {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/chuttersnap-sxhvouritmq-unsplash-1-2000x1331.png");
 }
-.cid-rGtP4tFzqR .media-container-row {
+.cid-rGQ5POcbnc .media-container-row {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-rGtP4tFzqR .mbr-figure {
+  .cid-rGQ5POcbnc .mbr-figure {
     padding-right: 4rem;
     padding-right: 0;
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rGtP4tFzqR .mbr-figure {
+  .cid-rGQ5POcbnc .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rGtP4tFzqR .mbr-text {
+  .cid-rGQ5POcbnc .mbr-text {
     text-align: center;
   }
 }
