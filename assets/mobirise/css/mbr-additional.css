@@ -1052,10 +1052,9 @@ section.lazy-placeholder:after {
 .cid-rHwpk1PocC P {
   text-align: left;
 }
-.cid-rHwx1wSShy {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/chuttersnap-sxhvouritmq-unsplash-1-2000x1331.png");
+.cid-rHwx1wSShy a {
+  color: blue;
+  font-size: 100px;
 }
 .cid-rHwx1xfjB3 {
   padding-top: 60px;
