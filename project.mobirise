@@ -53,7 +53,7 @@
     "uniqCompNum": 46,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/user-male2-512-128x128.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
